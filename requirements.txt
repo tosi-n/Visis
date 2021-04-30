@@ -19,7 +19,7 @@ pyfiglet==0.8.post1
 pygame==1.9.6
 pytz==2019.3
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 six==1.13.0
 soupsieve==1.9.5
 SpeechRecognition==3.8.1
